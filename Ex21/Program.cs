@@ -7,7 +7,7 @@
             double b = double.Parse(Console.ReadLine());
 
 
-            if (a = b) {
+            if (a == b) {
                 double c = a + c;
                 Console.WriteLine($"{a} + {c} = {c}");
             } else {
